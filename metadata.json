@@ -1,0 +1,5 @@
+{
+  "name": "VANGUARD PAYMENT - Manual Payment Gateway",
+  "description": "A streamlined manual payment system for digital products supporting BCA, DANA, GoPay, and QRIS with AI-powered receipt analysis.",
+  "requestFramePermissions": []
+}
